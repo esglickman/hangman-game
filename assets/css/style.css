@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #333;
+}
+
+h1 {
+	margin: 10px 0 0 225px;
+}
+
+.directions {
+	background-color: #333;
+	margin-left: 100px;
+	padding: 10px;
+	color: green;
+}
+
+.noose {
+	float: left;
+}
+.instructions {
+	float: right;
+	margin: 0 200px 0 0;
+	padding: 10px;
+
+}
